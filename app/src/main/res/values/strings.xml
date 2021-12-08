@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Trabajo 1</string>
+    <string name="msgActividad1">Bienvenido a la actividad 1</string>
+    <string name="msgActividad2">Bienvenido a la actividad 2</string>
+    <string name="btnsiguiente">Siguiente</string>
+    <string name="cambio_de_pagina">Ir a la Actividad 2</string>
+    <string name="finalizar_actividad">Finalizar actividad</string>
+
+
+</resources>
